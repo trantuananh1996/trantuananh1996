@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=trantuananh1996)
 <!--
 **trantuananh1996/trantuananh1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=trantuananh1996&hide=issues&show_icons=true)](https://github.com/trantuananh1996)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trantuananh1996&layout=compact)](https://github.com/trantuananh1996)
